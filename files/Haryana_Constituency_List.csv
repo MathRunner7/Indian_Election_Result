@@ -1,0 +1,91 @@
+Constituency,Constituency Name,District,Lok Sabha,Constituency Category
+1,Kalka,Panchkula,Ambala,GEN
+2,Panchkula,Panchkula,Ambala,GEN
+3,Naraingarh,Ambala,Ambala,GEN
+4,Ambala Cantonment,Ambala,Ambala,GEN
+5,Ambala City,Ambala,Ambala,GEN
+6,Mulana,Ambala,Ambala,SC
+7,Sadhaura,Yamunanagar,Ambala,SC
+8,Jagadhri,Yamunanagar,Ambala,GEN
+9,Yamunanagar,Yamunanagar,Ambala,GEN
+10,Radaur,Yamunanagar,Kurukshetra,GEN
+11,Ladwa,Kurukshetra,Kurukshetra,GEN
+12,Shahbad,Kurukshetra,Kurukshetra,SC
+13,Thanesar,Kurukshetra,Kurukshetra,GEN
+14,Pehowa,Kurukshetra,Kurukshetra,GEN
+15,Guhla,Kaithal,Kurukshetra,SC
+16,Kalayat,Kaithal,Kurukshetra,GEN
+17,Kaithal,Kaithal,Kurukshetra,GEN
+18,Pundri,Kaithal,Kurukshetra,GEN
+19,Nilokheri,Karnal,Karnal,SC
+20,Indri,Karnal,Karnal,GEN
+21,Karnal,Karnal,Karnal,GEN
+22,Gharaunda,Karnal,Karnal,GEN
+23,Assandh,Karnal,Karnal,GEN
+24,Panipat Rural,Panipat,Karnal,GEN
+25,Panipat City,Panipat,Karnal,GEN
+26,Israna,Panipat,Karnal,SC
+27,Samalkha,Panipat,Karnal,GEN
+28,Ganaur,Sonipat,Sonipat,GEN
+29,Rai,Sonipat,Sonipat,GEN
+30,Kharkhauda,Sonipat,Sonipat,SC
+31,Sonipat,Sonipat,Sonipat,GEN
+32,Gohana,Sonipat,Sonipat,GEN
+33,Baroda,Sonipat,Sonipat,GEN
+34,Julana,Jind,Sonipat,GEN
+35,Safidon,Jind,Sonipat,GEN
+36,Jind,Jind,Sonipat,GEN
+37,Uchana Kalan,Jind,Hisar,GEN
+38,Narwana,Jind,Sirsa,SC
+39,Tohana,Fatehabad,Sirsa,GEN
+40,Fatehabad,Fatehabad,Sirsa,GEN
+41,Ratia,Fatehabad,Sirsa,SC
+42,Kalanwali,Sirsa,Sirsa,SC
+43,Dabwali,Sirsa,Sirsa,GEN
+44,Rania,Sirsa,Sirsa,GEN
+45,Sirsa,Sirsa,Sirsa,GEN
+46,Ellenabad,Sirsa,Sirsa,GEN
+47,Adampur,Hisar,Hisar,GEN
+48,Uklana,Hisar,Hisar,SC
+49,Narnaund,Hisar,Hisar,GEN
+50,Hansi,Hisar,Hisar,GEN
+51,Barwala,Hisar,Hisar,GEN
+52,Hisar,Hisar,Hisar,GEN
+53,Nalwa,Hisar,Hisar,GEN
+54,Loharu,Bhiwani,BhiwaniMahendragarh,GEN
+55,Badhra,Charkhi Dadri,BhiwaniMahendragarh,GEN
+56,Dadri,Charkhi Dadri,BhiwaniMahendragarh,GEN
+57,Bhiwani,Bhiwani,BhiwaniMahendragarh,GEN
+58,Tosham,Bhiwani,BhiwaniMahendragarh,GEN
+59,Bawani Khera,Bhiwani,Hisar,SC
+60,Meham,Rohtak,Rohtak,GEN
+61,Garhi Sampla-Kiloi,Rohtak,Rohtak,GEN
+62,Rohtak,Rohtak,Rohtak,GEN
+63,Kalanaur,Rohtak,Rohtak,SC
+64,Bahadurgarh,Jhajjar,Rohtak,GEN
+65,Badli,Jhajjar,Rohtak,GEN
+66,Jhajjar,Jhajjar,Rohtak,SC
+67,Beri,Jhajjar,Rohtak,GEN
+68,Ateli,Mahendragarh,BhiwaniMahendragarh,GEN
+69,Mahendragarh,Mahendragarh,BhiwaniMahendragarh,GEN
+70,Narnaul,Mahendragarh,BhiwaniMahendragarh,GEN
+71,Nangal Chaudhry,Mahendragarh,BhiwaniMahendragarh,GEN
+72,Bawal,Rewari,Gurgaon,SC
+73,Kosli,Rewari,Rohtak,GEN
+74,Rewari,Rewari,Gurgaon,GEN
+75,Pataudi,Gurgaon,Gurgaon,SC
+76,Badshahpur,Gurgaon,Gurgaon,GEN
+77,Gurgaon,Gurgaon,Gurgaon,GEN
+78,Sohna,Gurgaon,Gurgaon,GEN
+79,Nuh,Nuh,Gurgaon,GEN
+80,Ferozepur Jhirka,Nuh,Gurgaon,GEN
+81,Punahana,Nuh,Gurgaon,GEN
+82,Hathin,Palwal,Faridabad,GEN
+83,Hodal,Palwal,Faridabad,SC
+84,Palwal,Palwal,Faridabad,GEN
+85,Prithla,Faridabad,Faridabad,GEN
+86,Faridabad NIT,Faridabad,Faridabad,GEN
+87,Badkhal,Faridabad,Faridabad,GEN
+88,Ballabgarh,Faridabad,Faridabad,GEN
+89,Faridabad,Faridabad,Faridabad,GEN
+90,Tigaon,Faridabad,Faridabad,GEN
